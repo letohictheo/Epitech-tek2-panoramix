@@ -5,3 +5,4 @@ live serve
 github
 arduino
 open in browser
+Palenight Theme
